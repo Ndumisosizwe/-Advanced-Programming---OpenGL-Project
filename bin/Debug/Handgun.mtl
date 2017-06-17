@@ -1,0 +1,47 @@
+# Blender MTL File: 'Handgun_Game_Blender Gamer Engine.blend'
+# Material Count: 4
+
+newmtl Fire.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd F:\\Handgun\\textures\\handgun_Fire.png
+map_Ke F:\\Handgun\\textures\\handgun_Fire.png
+map_d F:\\Handgun\\textures\\handgun_Fire.png
+
+newmtl Material.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd F:\\Handgun\\textures\\handgun_Fire.png
+map_Ke F:\\Handgun\\textures\\handgun_Fire.png
+map_d F:\\Handgun\\textures\\handgun_Fire.png
+
+newmtl Material.004
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl handgun
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump F:\\Handgun\\textures\\handgun_N.jpg
+map_Kd F:\\Handgun\\textures\\handgun_C.jpg
+map_Ks F:\\Handgun\\textures\\handgun_S.jpg

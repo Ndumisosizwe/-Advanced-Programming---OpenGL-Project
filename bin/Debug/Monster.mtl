@@ -1,0 +1,46 @@
+# Blender MTL File: 'None'
+# Material Count: 4
+
+newmtl m_rage_eyes
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+disp F:\\Rage\\t_rage_eyes_n.tga
+map_Kd F:\\Rage\\t_rage_eyes_d.tga
+
+newmtl mi_rageBody
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+disp F:\\Rage\\t_rage_body_n.tga
+map_Kd F:\\Rage\\t_rage_body_d.tga
+
+newmtl mi_rage_fur
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+disp F:\\Rage\\t_rage_fur_n.tga
+map_Kd F:\\Rage\\t_rage_fur_dm.tga
+
+newmtl mi_rage_harness
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+disp F:\\Rage\\t_rage_harness_n.tga
+map_Kd F:\\Rage\\t_rage_harness_d.tga
