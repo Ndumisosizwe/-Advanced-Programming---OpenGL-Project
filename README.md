@@ -1,3 +1,5 @@
+A 3D world shooter game, written in C++ and OpenGL (Open Graphics Labrary).
+
 This game only works on windows PC
 To start the game just double click "MazeRunner_Shortcut"
 
